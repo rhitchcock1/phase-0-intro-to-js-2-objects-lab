@@ -1,3 +1,7 @@
+const employee = { 
+  name: "George",
+  streetAddress: "123 Happy Street",
+}
 const chai = require('chai')
 global.expect = chai.expect
 const fs = require('fs')
